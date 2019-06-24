@@ -26,3 +26,10 @@ Initially, I had different ideas to sketch my game and started to design each le
 
 # 2) Coding:
 The most difficult part which I faced while developing the game was giving physical movements to the player and providing collision force in which I tried various coding, surfed the net for reference, through series of iteration and critical thinking I was finally able to solve my problems and thus I developed a game of my own.
+
+To Play the game click the below link,
+https://preethikumaresh.github.io/GameProgramming/ShinchanFinal.swf
+
+FireFox - Opens in new window and allow Flash PLayer
+Google - Downloads locally 
+
