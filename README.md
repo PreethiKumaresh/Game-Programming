@@ -30,5 +30,5 @@ The most difficult part which I faced while developing the game was giving physi
 To Play the game click the given link,
 https://preethikumaresh.github.io/GameProgramming/ShinchanFinal.swf
 
-FireFox - Opens in new window and allow Flash PLayer , Google - Downloads locally 
+FireFox - Opens in new window and allow Flash Player , Google - Downloads locally 
 
